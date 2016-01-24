@@ -25,6 +25,6 @@
 	             fclose($json_write);
 
 //this lines make te query into the file called export_data.json .change it as you wish :)
-/best wishes :) 
+//best wishes :) 
 
 ?>
